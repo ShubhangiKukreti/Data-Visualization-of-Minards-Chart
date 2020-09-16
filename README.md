@@ -6,10 +6,10 @@ The code was written in Java using Processing[2].
 
 The results are as shown below:
 
- ![alt tag](https://user-images.githubusercontent.com/55923146/93329283-96cc8980-f83a-11ea-915b-a368eb22938b.png)
+ ![alt tag](https://user-images.githubusercontent.com/55923146/93329283-96cc8980-f83a-11ea-915b-a368eb22938b.png  | width=100)
  
  
- ![alt tag](https://user-images.githubusercontent.com/55923146/93329293-99c77a00-f83a-11ea-90be-266b0e676c66.png)
+ ![alt tag](https://user-images.githubusercontent.com/55923146/93329293-99c77a00-f83a-11ea-90be-266b0e676c66.png  | width=100)
 
 
 
@@ -18,4 +18,5 @@ The results are as shown below:
 
 
 [1] https://en.wikipedia.org/wiki/Charles_Joseph_Minard#The_map_of_Napoleon%27s_Russian_campaign
+
 [2] https://processing.org/
