@@ -1,8 +1,8 @@
 # Data-Visualization-of-Minards-Chart
 
-This is an imitatiion of the work of Charles Joseph Minard who depicted the Napolean's Russian Campaign of 1812. The depiction has been known to visualzie multiple types of data in two dimensions. The data was temperature, latitude and longiutude, the number of Napolean's troops among others. For more infromation, refer to [1]. 
+This is an imitatiion of the work of Charles Joseph Minard who depicted the Napolean's Russian Campaign of 1812. The depiction has been known to visualize multiple types of data in two dimensions. The data was temperature, latitude and longiutude, the number of Napolean's troops among others. For more infromation, refer to [1]. 
 
-The code was written in Java using Processing[2].
+The code was written in JAVA based Processing language[2].
 
 The results are as shown below:
 
